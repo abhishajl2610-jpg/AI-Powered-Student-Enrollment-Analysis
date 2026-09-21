@@ -42,6 +42,8 @@ I use generative AI tools to speed up a data analysis and modelling workflow.
 | Linear Regression | 112,239.96 | 58,133.77 | 0.9948 |
 | Random Forest | 100,835.23 | 60,721.00 | 0.9958 |
 
+Random Forest performed best with an R² of 0.9958, closely followed by Linear Regression at 0.9948.
+
 ## Tools Used
 Python, pandas, NumPy, scikit-learn, Plotly, Antigravity IDE, Microsoft Copilot, ChatGPT
 
