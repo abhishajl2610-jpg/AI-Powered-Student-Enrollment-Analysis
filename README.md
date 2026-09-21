@@ -36,8 +36,8 @@ I use generative AI tools to speed up a data analysis and modelling workflow.
 ## Results
 | Model | RMSE | MAE | R² |
 |---|---|---|---|
-| Linear Regression | (add) | (add) | (add) |
-| Random Forest | (add) | (add) | (add) |
+| Linear Regression | 112,239.96 | 58,133.77 | 0.9948 |
+| Random Forest | 100,835.23 | 60,721.00 | 0.9958 |
 
 Best model: (add)
 
@@ -49,4 +49,4 @@ Python, pandas, NumPy, scikit-learn, Plotly, Antigravity IDE
    `pip install pandas numpy scikit-learn plotly`
 2. Keep the CSV in the same folder as the script
 3. Run:
-   `python your_script_name.py`
+   `AI Powered Student Enrollment Analytics.py`
