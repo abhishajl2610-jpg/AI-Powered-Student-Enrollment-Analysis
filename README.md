@@ -12,6 +12,9 @@ This project was built using an AI-assisted workflow. I used the
 visualisations and analysis, then reviewed and ran the results. It shows how
 I use generative AI tools to speed up a data analysis and modelling workflow.
 
+<img width="800" alt="Enrollment Trend" src="https://github.com/user-attachments/assets/0e4e0714-7ce5-4a57-b33b-c4e0e6e16d84" />
+
+
 ## Dataset
 - File: `AISHE_Enrollment_Trend_2019_2024.csv`
 - State/UT-wise total enrolment by year (2019-20 to 2023-24)
@@ -42,7 +45,7 @@ I use generative AI tools to speed up a data analysis and modelling workflow.
 Best model: (add)
 
 ## Tools Used
-Python, pandas, NumPy, scikit-learn, Plotly, Antigravity IDE
+Python, pandas, NumPy, scikit-learn, Plotly, Antigravity IDE, Microsoft Copilot, ChatGPT
 
 ## How to Run
 1. Install the libraries:
